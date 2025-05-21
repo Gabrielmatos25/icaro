@@ -1,0 +1,9 @@
+streamlit
+torch==2.3.0 -f https://download.pytorch.org/whl/cpu/torch_stable.html
+numpy
+pandas
+plotly
+yfinance
+reportlab
+xlsxwriter
+python-dotenv
